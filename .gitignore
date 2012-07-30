@@ -1,3 +1,4 @@
 .DS_Store*
 bin/
+keystore/
 javamail-1.4.4/
