@@ -55,7 +55,7 @@ connection.
 	Both private and public key will be written into two separate 
 	files, specified in the General setting. The public key will have 
 	.pub extension.
-
+	
 	Passphrase has to be provided in order for AES encryption to work 
 	properly.
 
